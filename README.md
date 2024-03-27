@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Jaydon Jang, A pilot and researcher who codes skies.</h1>
+<h1 align="center">Hi 👋, I'm Jaydon Jang, A pilot and engineer who codes skies.</h1>
 <h3 align="center">My research interests are in the field of aerospace engineering, using machine learning and deep learning to optimize and improve rotary-wing aircraft flight dynamics models.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaws-flyby&label=Profile%20views&color=0e75b6&style=flat" alt="jaws-flyby" /> </p>
 
-- 🔭 I’m currently researching on **graduate school of MDC at Ajou University**
+- 🔭 I’m currently studying on **graduate school of MDC at Ajou University**
 
 - 📫 How to reach me **geuncheoljang91@gmail.com**
 
