@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Jaydon Jang, pilot and engineer who codes skies.</h1>
+<h1 align="center">Hi👋, I'm "JAWS" Jang, pilot and engineer who codes skies.</h1>
 <h3 align="center">My research interests are in the areas of Flight Dynamics and Control with AI(ML/DL).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaws-flyby&label=Profile%20views&color=0e75b6&style=flat" alt="jaws-flyby" /> </p>
